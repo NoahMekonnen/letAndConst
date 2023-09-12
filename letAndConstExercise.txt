@@ -1,0 +1,4 @@
+1. var allows you to redeclare variables whereas let doesn't
+2. var allows you to redeclare variables and re-assign values whereas const doesn't
+3. let allows you to re-assign values whereas const doesn't
+4. Variable hoisting is the act whereby the compiler declares variables before anything else(like assignments)
